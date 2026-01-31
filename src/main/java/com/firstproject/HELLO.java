@@ -4,8 +4,10 @@ import java.sql.SQLOutput;
 
 public class HELLO {
     public static void main(String[]args){
-        System.out.println("hellow world");
-    }
-
-
+        Student student = new Student();
+student.setAge(18);
+student.setName("pranav");
+System.out.println(student.getAge());
+        System.out.println(student.getName());
+}
 }

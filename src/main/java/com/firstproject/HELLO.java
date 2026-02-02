@@ -8,5 +8,6 @@ public class HELLO {
 student.setAge(18);
 student.setName("pranav");
         System.out.println(student.getName());
+        System.out.println(student.getAge());
 }
 }

@@ -7,7 +7,6 @@ public class HELLO {
         Student student = new Student();
 student.setAge(18);
 student.setName("pranav");
-System.out.println(student.getAge());
         System.out.println(student.getName());
 }
 }

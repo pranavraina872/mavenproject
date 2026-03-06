@@ -1,6 +1,6 @@
 package com.test;
 
-public class Sum {
+public class   Sum {
     private int num1;
     private int num2;
     private int num3;
